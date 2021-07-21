@@ -6,8 +6,8 @@ var image;
 var button;
 
 function preload() {
-  playButtonImage = loadImage("images/play_button.png");
-  homepageImage = loadImage("images/homepage.png");
+  playButtonImage = loadImage("play_button.png");
+  homepageImage = loadImage("homepage.png");
 }
 
 function setup() {
